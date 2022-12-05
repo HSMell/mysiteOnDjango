@@ -2,6 +2,11 @@ from django.urls import path
 
 from . import views
 
+# urls.py -> views.py
+# views.py : Controller
+# models.py : Model
+# templates : View
+
 app_name = 'pybo'
 
 urlpatterns = [

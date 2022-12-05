@@ -1,5 +1,6 @@
 from django.shortcuts import render
 
+# Controller
 # Create your views here.
 from django.shortcuts import render, get_object_or_404
 from .models import Question
